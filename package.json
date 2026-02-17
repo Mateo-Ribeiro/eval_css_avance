@@ -3,6 +3,6 @@
 		"sass": "^1.97.3"
 	},
 	"scripts": {
-		"build": "sass --watch ./scss:./"
+		"build": "sass --watch ./assets/scss:./assets/css"
 	}
 }
