@@ -1,5 +1,8 @@
 {
-  "dependencies": {
-    "sass": "^1.97.3"
-  }
+	"dependencies": {
+		"sass": "^1.97.3"
+	},
+	"scripts": {
+		"build": "sass --watch ./scss:./"
+	}
 }
